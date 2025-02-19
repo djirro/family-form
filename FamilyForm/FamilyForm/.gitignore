@@ -1,0 +1,63 @@
+# Системные файлы macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Файлы Xcode
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcuserdatad/
+
+# Файлы сборки и отладочной информации
+DerivedData/
+Build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/
+Carthage/Checkouts
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Архивы Xcode
+*.xcarchive
+
+# Swift Playgrounds
+timeline.xctimeline
+playground.xcworkspace/
+
+# Файлы редакторов
+*~
+*.swp
+*.swo
+*.swn
+
+# Логи
+*.log
+
+# Переменные окружения
+.env
+.envrc
+
+# Firebase
+GoogleService-Info.plist
